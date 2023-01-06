@@ -1,0 +1,124 @@
+*{
+    margin: auto;
+    padding: 0;
+    border: 1px solid rgba(255, 0, 0, 0.496);
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background-image: url("images//banner/banner2.png");
+    display: flex;
+    align-items: center;
+
+}
+.right-aria {
+    width: 50%;
+    text-align: right;
+}
+.banner-title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-size: 65px;  
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner-descripton{  
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    color: #444343;
+    font-size:18px;
+
+}
+.btn{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    font-size: 20px;
+    top: 578px;
+    border: none;
+    background-color: #F15B22;
+    border-radius: 5px;
+}
+/* =======header section 2=========  */
+.banner{
+    width: 1070px;
+    height: 700px;
+    margin-left: 206px;
+    margin-top: 39px;
+    display: flex;
+    gap: 54px;
+    align-items: center;
+}
+
+.personal-images{
+    max-width: 453px;
+    margin-top: -95px;
+}
+.left-ariea-photo{
+    width: 60%;
+    
+}
+.left-ariea-dtiles{
+
+}
+.left-ariea-title{
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.left-ariea-descripton {
+    font-size: 18px;
+    color: #444343;
+    line-height: 29px;
+    padding-top: 15px;
+}
+.list-item{
+    padding-top: 40px;
+    line-height: 24px;
+}
+ul li{
+    list-style: none;
+    color: #444343;
+    line-height: 30px;
+}
+.icon{
+    color: #16D887;
+}
+/* ========My Plans================= */
+.plan-section{
+    width: 1140px;
+}
+.plan-section-title{
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.my-plane{
+    display: flex;
+    align-items: center;
+    padding-bottom: 60px;
+}
+.plane-item{
+    text-align: center;
+}
+.plane-item-heading {
+    font-size: 30px;
+    font-weight: 700;
+    align-items: center;
+    padding: 20px 24px;
+}
+.paragrap-title{
+    font-size: 25px;
+    font-weight: 500;
+    align-items: center;
+}
