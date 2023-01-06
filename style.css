@@ -125,7 +125,7 @@ ul li{
 }
 
 .container{
-    background-image: url("images/watch.png");
+    background-image: linear-gradient(111deg,#f84904c4 ,rgba(41, 36, 36, 0.17)) , url("images/watch.png");
     background-size: contain;
     background-repeat: no-repeat;
     width: 1140px;
