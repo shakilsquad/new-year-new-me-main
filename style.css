@@ -107,7 +107,7 @@ ul li{
     display: flex;
     align-items: center;
     padding-bottom: 60px;
-    width: 80%;
+    width: 85%;
 }
 .plane-item{
     text-align: center;
@@ -124,16 +124,6 @@ ul li{
     align-items: center;
 }
 
-
-
-
-
-
-
-
-
-
-
 .container{
     background-image: url("images/watch.png");
     background-size: contain;
@@ -141,5 +131,26 @@ ul li{
     width: 1140px;
     padding: 70px 0;
     margin-bottom: 50px;
-    margin-left: 400px;
+    margin-left: 215px;
+}
+.container-descripton{
+    margin-left: 50px;
+}
+.container-descripton-taitle {
+    Font-Weight:700;
+    font-size:40px;
+    Line-height:46.92px;
+    color: white;
+    padding-bottom: 10px;
+}
+.container-descripton{
+    margin-left: 50px;
+}
+.clss-now {
+    height: 64px;
+    font-size: 20px;
+    width: 160px;
+    color: #F15B22;
+    border: none;
+    border-radius: 7px;
 }
