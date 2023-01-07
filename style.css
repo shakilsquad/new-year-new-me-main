@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    /* border: 1px solid rgba(255, 0, 0, 0.496); */
+    
 }
 
 .header{
@@ -71,9 +71,7 @@
     width: 60%;
     
 }
-.left-ariea-dtiles{
 
-}
 .left-ariea-title{
     font-weight: 700;
     font-size: 40px;
@@ -101,7 +99,7 @@ ul li{
 /* ========My Plans================= */
 .plan-section{
     width: 1140px;
-    margin-left: 264px;
+    margin-left: 300px;
 }
 .plan-section-title{
     text-align: center;
