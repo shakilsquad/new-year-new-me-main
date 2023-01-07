@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    border: 1px solid rgba(255, 0, 0, 0.496);
+    /* border: 1px solid rgba(255, 0, 0, 0.496); */
 }
 .header{
     width: 100%;
@@ -96,6 +96,7 @@ ul li{
 /* ========My Plans================= */
 .plan-section{
     width: 1140px;
+    margin-left: 264px;
 }
 .plan-section-title{
     text-align: center;
@@ -223,10 +224,48 @@ ul li{
     padding-bottom: 10px;
     line-height: 20px;
 } 
-ul li a{
-    font-size: 30px;
+
+.fotter-icon ul{
+    text-align:left;
 }
+.fotter-icon ul li{
+    display: inline-block;
+}
+.fotter-icon ul li a{
+    width: 40px;
+    height: 40px;
+    color: #16D887;
+    display: inline-block;
+}
+
 .left-box{
  /* text-align: center; */
  padding-left: 150px;
+}
+.left-box h3{
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 10px;
+}
+.input-email {
+    height: 25px;
+    border-radius: 5px;
+    width: 213px;
+    border: 1px solid white;
+    font-size: 18px;
+    background: none;
+    padding: 10px 30px;
+}
+.input-btn{
+    
+}
+
+
+.input-btn {
+    margin-top: 16px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    background: #F15B22;
+    padding: 15px 29px;
 }
