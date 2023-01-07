@@ -227,19 +227,14 @@ ul li{
     padding-bottom: 10px;
     line-height: 20px;
 } 
+.image-futter img{
+    position: relative;
+    padding: 10px;
+    margin-right: 10px;
+    text-align: left;
 
-.fotter-icon ul{
-    text-align:left;
 }
-.fotter-icon ul li{
-    display: inline-block;
-}
-.fotter-icon ul li a{
-    width: 40px;
-    height: 40px;
-    color: #16D887;
-    display: inline-block;
-}
+
 
 .left-box{
  /* text-align: center; */
@@ -259,9 +254,7 @@ ul li{
     background: none;
     padding: 10px 30px;
 }
-.input-btn{
-    
-}
+
 
 
 .input-btn {
