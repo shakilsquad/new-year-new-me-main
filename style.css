@@ -120,9 +120,11 @@ ul li{
     align-items: center;
     padding: 20px 24px;
 }
-.paragrap-title{
+.paragrap-title {
+    
     font-size: 25px;
     font-weight: 500;
+    color: #737272;
     align-items: center;
 }
 
